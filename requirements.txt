@@ -1,0 +1,8 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Flask-WTF
+google-cloud-texttospeech
+google-cloud-speech
+PyPDF2
+transformers
